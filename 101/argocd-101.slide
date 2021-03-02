@@ -1,0 +1,8 @@
+* Display and highlight code
+.code hello.go
+
+Display Partial code
+.code hello.go /^//START/,/^//END/ HL12
+
+* Run your Go code
+.play hello.go
