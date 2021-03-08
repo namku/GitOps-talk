@@ -12,10 +12,3 @@ lopezalarconisaac@gmail.com
 
 * test html file
 .html test.html
-
-* Why Should I Use GitOps?
-.html should.html
-
-* Repository Structure
-- Using separate repository, keeping the config separate from your application source code
-.html repos.html
