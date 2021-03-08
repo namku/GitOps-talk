@@ -10,5 +10,9 @@ lopezalarconisaac@gmail.com
 - GitOps is having a Git repository that always contains declarative descriptions of the infrastructure
 .image images/cover.jpeg
 
-* test html
-.html test.html
+* Why Should I Use GitOps?
+.html should.html
+
+* Repository Structure
+- Using separate repository, keeping the config separate from your application source code
+.html repos.html
