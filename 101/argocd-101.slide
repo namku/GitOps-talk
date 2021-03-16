@@ -5,12 +5,12 @@ March 2021
 Isaac Lopez
 lopezalarconisaac@gmail.com
 
-*  What we GitOps?
+*  What is GitOps?
 - Continuos deployment for cloud native applications.
 - GitOps is having a Git repository that always contains declarative descriptions of the infrastructure
 .image images/cover.jpeg
 
-* Why Should I Use GitOps?
+* Why Should We Use GitOps?
 .html should.html
 
 * Repository Structure
